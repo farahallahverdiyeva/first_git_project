@@ -1,0 +1,7 @@
+This is my first code
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/farahallahverdiyeva/first_git_project.git
+git push -u origin main
